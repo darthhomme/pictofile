@@ -1,0 +1,14 @@
+* {
+    margin:10;
+    padding: 10;
+}
+img {
+    vertical-align: top;
+    max-width: 100%;
+}
+#container {
+    float: left;
+    display: block;
+    margin: 2px;
+    max-width: 200px;
+}
